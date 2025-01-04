@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Poorniportfolio/static/css/main.c701667e.css",
-    "main.js": "/Poorniportfolio/static/js/main.046ba417.js",
+    "main.css": "/Poorniportfolio/static/css/main.7304d362.css",
+    "main.js": "/Poorniportfolio/static/js/main.789a65b3.js",
     "static/js/453.1407b060.chunk.js": "/Poorniportfolio/static/js/453.1407b060.chunk.js",
-    "static/media/pro.jpg": "/Poorniportfolio/static/media/pro.c6d3f0938715828bc2f0.jpg",
     "static/media/backimg.png": "/Poorniportfolio/static/media/backimg.1369fa5caf0eb4c70a53.png",
+    "static/media/caes.jpg": "/Poorniportfolio/static/media/caes.2ce79530e1f924ebbc4f.jpg",
     "static/media/PoornimaCV.pdf": "/Poorniportfolio/static/media/PoornimaCV.f5c2a55fe627fb3efdd3.pdf",
     "static/media/car.jpg": "/Poorniportfolio/static/media/car.6b8844b268a6ed04844e.jpg",
     "static/media/react.png": "/Poorniportfolio/static/media/react.936d63e803014e72c68c.png",
     "static/media/js.png": "/Poorniportfolio/static/media/js.d047f1412d08fd1b13e4.png",
     "static/media/ui.png": "/Poorniportfolio/static/media/ui.3fd99b255bce899a5641.png",
     "index.html": "/Poorniportfolio/index.html",
-    "main.c701667e.css.map": "/Poorniportfolio/static/css/main.c701667e.css.map",
-    "main.046ba417.js.map": "/Poorniportfolio/static/js/main.046ba417.js.map",
+    "main.7304d362.css.map": "/Poorniportfolio/static/css/main.7304d362.css.map",
+    "main.789a65b3.js.map": "/Poorniportfolio/static/js/main.789a65b3.js.map",
     "453.1407b060.chunk.js.map": "/Poorniportfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c701667e.css",
-    "static/js/main.046ba417.js"
+    "static/css/main.7304d362.css",
+    "static/js/main.789a65b3.js"
   ]
 }
